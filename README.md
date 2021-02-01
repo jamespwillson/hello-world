@@ -1,3 +1,3 @@
 ## hello-world
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/jamespwillson/hello-world/.NET/main?style=for-the-badge) \
+![.NET](https://github.com/jamespwillson/hello-world/workflows/.NET/badge.svg) \
 This repository was setup to help me learn GitHub actions
